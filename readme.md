@@ -7,4 +7,7 @@
     - exported cleaned data file
 3. creating the graphical analysis with help of tableau
 
+final tableau project page link:
+https://public.tableau.com/profile/leonhard.liu#!/vizhome/ironhack_project/Story1?publish=yes
+
 "# dataAnalysisJobmarketUS" 
