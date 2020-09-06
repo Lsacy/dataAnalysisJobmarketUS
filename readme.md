@@ -1,4 +1,4 @@
-1. download the data file from kaggle
+1. downloaded the data file from kaggle
 2. since data has been web scraped, cleaning was needed with the help of pandas
     - drop empty columns
     - seperated location into state, city
